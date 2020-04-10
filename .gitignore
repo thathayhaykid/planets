@@ -3,3 +3,7 @@ results/*
 !results/data/
 !final.dat
 
+.Rproj.user
+planets.Rproj
+
+graphs/
